@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CaraXiaoKe/test/issues"
   },
-  "homepage": "https://github.com/CaraXiaoKe/test#readme"
+  "homepage": "https://github.com/CaraXiaoKe/test#readme",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
 }
