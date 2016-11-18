@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "learn how to use git",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaraXiaoKe/test.git"
+  },
+  "author": "dpd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaraXiaoKe/test/issues"
+  },
+  "homepage": "https://github.com/CaraXiaoKe/test#readme"
+}
