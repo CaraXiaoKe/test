@@ -1,6 +1,5 @@
 
-
-console.log(22232222)
+console.log(222)
 
 
 
